@@ -1,6 +1,4 @@
-# Instagram-W6
-
-# Project 6 - *Name of App Here*
+# Project 6 - *Instagram-W6*
 
 **Name of your app** is a photo sharing app using Parse as its backend.
 
